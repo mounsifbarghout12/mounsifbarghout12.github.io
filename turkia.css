@@ -1,0 +1,43 @@
+body{
+    margin:0;
+    padding:0;
+    font-family: 'Montserrat',sans-serif;
+}
+nav{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 5px solid #6f6f6f ;
+}
+nav h1{
+    color: aliceblue;
+    font-family: 'Playfair Display', sans-serif ;
+    font-size: 30px;
+}
+nav .onglets{
+    margin-top: 3px;
+    margin-left: 300px;
+}
+nav .onglets a{
+    text-decoration: none;
+    color:bisque;
+    margin-right: 10px;
+    border-bottom: 1px solid bisque;
+    margin-bottom: 5px;
+    
+}
+
+.services{
+    display: flex;
+    color: aliceblue;
+}
+.c{
+    margin-left: 20%;
+}
+.bb{
+    margin-left: 10%;
+}
+.a{
+    margin-left: 2%;
+}
